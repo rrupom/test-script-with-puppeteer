@@ -1,0 +1,1 @@
+## Simple script written with puppeteer that goes to [DuckDuckGo](https://duckduckgo.com/) and search for word `rafah` and prints the search results
